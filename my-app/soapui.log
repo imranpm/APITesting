@@ -1,0 +1,15 @@
+2020-07-16 19:32:28,229 WARN  [SoapUI] Missing folder [C:\Users\ImranPeenaMajidsab\Desktop\Project\my-app\ext] for external libraries
+2020-07-16 19:32:28,569 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\ImranPeenaMajidsab\soapui-settings.xml]
+2020-07-16 19:32:29,761 INFO  [PluginManager] 0 plugins loaded in 3 ms
+2020-07-16 19:32:29,761 INFO  [DefaultSoapUICore] All plugins loaded
+2020-07-16 19:32:31,885 INFO  [WsdlProject] Loaded project from [file:/C:/Users/ImranPeenaMajidsab/Desktop/Project/my-app/REST-json-soapui-project.xml]
+2020-07-16 19:32:31,895 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [REST json]
+2020-07-16 19:32:31,898 INFO  [SoapUITestCaseRunner] Running Project [REST json], runType = SEQUENTIAL
+2020-07-16 19:32:31,958 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TestCase 1]
+2020-07-16 19:32:31,977 INFO  [SoapUITestCaseRunner] running step [Addjson]
+2020-07-16 19:32:32,560 INFO  [SoapUITestCaseRunner] running step [placeid]
+2020-07-16 19:32:32,982 INFO  [SoapUITestCaseRunner] running step [deletjson]
+2020-07-16 19:32:33,084 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TestCase 1], time taken: 800ms, status: FINISHED
+2020-07-16 19:32:33,098 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [propertytransferandporrtexpansion]
+2020-07-16 19:32:33,105 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [propertytransferandporrtexpansion], time taken: 0ms, status: FINISHED
+2020-07-16 19:32:33,107 INFO  [SoapUITestCaseRunner] Project [REST json] finished with status [FINISHED] in 1196ms
